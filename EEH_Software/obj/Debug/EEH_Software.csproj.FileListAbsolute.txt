@@ -1,0 +1,13 @@
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.csproj.AssemblyReference.cache
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.Properties.Resources.resources
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.csproj.GenerateResource.cache
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.csproj.CoreCompileInputs.cache
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\bin\Debug\EEH_Software.exe.config
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\bin\Debug\EEH_Software.exe
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\bin\Debug\EEH_Software.pdb
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.exe
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.pdb
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.DbControl.resources
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.Adicionar.resources
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.Alterar.resources
+C:\Users\SQL Service\source\repos\EEH_Software\EEH_Software\obj\Debug\EEH_Software.Remover.resources
